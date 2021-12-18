@@ -3,3 +3,4 @@
 /public/build
 /.cache
 /prisma/dev.db
+.env
