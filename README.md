@@ -1,6 +1,6 @@
 # Remix Blog
 
-This is the blog app from my [Remix Crash Course]() on YouTube
+This is the blog app from my [Remix Crash Course](https://youtu.be/d_BhzHVV4aQ) on YouTube
 
 ## Usage
 
