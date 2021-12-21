@@ -49,7 +49,7 @@ function Post() {
       <div className='page-content'>{post.body}</div>
 
       <div className='page-footer'>
-        {user.id === post.userId && (
+        {user?.id === post.userId && (
           <form method='POST'>
             <input type='hidden' name='_method' value='delete' />
             <button className='btn btn-delete'>Delete</button>
